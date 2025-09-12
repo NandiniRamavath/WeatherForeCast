@@ -1,0 +1,9 @@
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\MyApi.exe
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\appsettings.Development.json
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\appsettings.json
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\MyApi.dll
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\MyApi.deps.json
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\MyApi.runtimeconfig.json
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\MyApi.pdb
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\237950\Desktop\Fuu-Stack-Project1\Backend\MyApi\publish\Microsoft.OpenApi.dll
